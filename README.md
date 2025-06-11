@@ -2,6 +2,7 @@
 # 🏠 Real Estate Price Prediction
 
 A machine learning project that predicts real estate property prices based on key features such as location, number of bedrooms, size (square feet), and amenities. Built using Python, Pandas, Scikit-learn, and Jupyter Notebook.
+Data Source : https://www.kaggle.com/datasets/shubheshswain/bangalore-house-price-data
 
 ## 📌 Table of Contents
 
